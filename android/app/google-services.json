@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "41111382996",
+    "firebase_url": "https://foundme-61fd2.firebaseio.com",
+    "project_id": "foundme-61fd2",
+    "storage_bucket": "foundme-61fd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41111382996:android:b17a01b4cf4a6aba428441",
+        "android_client_info": {
+          "package_name": "com.found.me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41111382996-3ri5jqvaa28ebfinrrmquiempo2qm3eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.found.me",
+            "certificate_hash": "99637d24b7605de7ec7df85fcde65d0c8feac869"
+          }
+        },
+        {
+          "client_id": "41111382996-u3hpts6dldgg2isv0qqjtcmhd6oju92q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQ1kIwxVDE-fm7mn7x2CTi0a58hpoIyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41111382996-u3hpts6dldgg2isv0qqjtcmhd6oju92q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41111382996-eae55i7bmdt4b20bcl68qsiq84rde78u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.found.me"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

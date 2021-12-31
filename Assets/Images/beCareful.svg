@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129" height="129" viewBox="0 0 129 129">
+  <defs>
+    <filter id="Ellipse_442" x="0" y="0" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.3"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_9060" data-name="Groupe 9060" transform="translate(892 -1352)">
+    <g transform="matrix(1, 0, 0, 1, -892, 1352)" filter="url(#Ellipse_442)">
+      <g id="Ellipse_442-2" data-name="Ellipse 442" transform="translate(11 11)" fill="#fff" stroke="#fff" stroke-width="1">
+        <circle cx="52.5" cy="52.5" r="52.5" stroke="none"/>
+        <circle cx="52.5" cy="52.5" r="52" fill="none"/>
+      </g>
+    </g>
+    <path id="Exclusion_13" data-name="Exclusion 13" d="M78.408,83H17.591a9,9,0,0,1-7.81-13.471L40.19,16.416a9,9,0,0,1,15.621,0L86.219,69.529A9,9,0,0,1,78.408,83ZM48.314,64.228A4.813,4.813,0,0,0,43.2,69.351a4.961,4.961,0,0,0,1.4,3.66,5.046,5.046,0,0,0,3.711,1.4,4.78,4.78,0,0,0,5.046-5.058,5.086,5.086,0,0,0-1.386-3.727A4.946,4.946,0,0,0,48.314,64.228ZM44.257,25.6l.693,32.142h6.662l.66-32.142H44.257Z" transform="translate(-876.578 1359.113)" fill="#ec1c40"/>
+  </g>
+</svg>

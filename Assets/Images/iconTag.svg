@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.352" height="28.951" viewBox="0 0 21.352 28.951">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5019" data-name="Rectangle 5019" width="21.352" height="28.951" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_7070" data-name="Groupe 7070" transform="translate(0 0)">
+    <g id="Groupe_7069" data-name="Groupe 7069" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Tracé_9002" data-name="Tracé 9002" d="M18.336,0H3.016A3.018,3.018,0,0,0,0,3.016v22.92a3.018,3.018,0,0,0,3.016,3.016h15.32a3.017,3.017,0,0,0,3.016-3.016V3.016A3.017,3.017,0,0,0,18.336,0M3.5,17.751a.737.737,0,1,1,.739-.738.738.738,0,0,1-.739.738m0-3.994a.738.738,0,1,1,.739-.738.738.738,0,0,1-.739.738m0-4.178a.738.738,0,1,1,.739-.738.738.738,0,0,1-.739.738m0-4.1a.738.738,0,1,1,.739-.737.738.738,0,0,1-.739.737m14.515,12.2H5.7a.6.6,0,0,1,0-1.206H18.011a.6.6,0,0,1,0,1.206m0-4.053H5.7a.6.6,0,0,1,0-1.206H18.011a.6.6,0,0,1,0,1.206m0-4.111H5.7a.6.6,0,0,1,0-1.206H18.011a.6.6,0,0,1,0,1.206m0-4.112H5.7A.6.6,0,0,1,5.7,4.2H18.011a.6.6,0,0,1,0,1.206" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

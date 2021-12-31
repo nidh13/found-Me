@@ -1,0 +1,97 @@
+name: neopolis
+description: Application Project Foundme
+
+publish_to: "none"
+version: 0.4.5+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get_it:
+  flutter_bloc: ^0.21.0
+  equatable: ^0.4.0
+  dartz:
+  http:
+  data_connection_checker:
+  mercury_client: 1.1.12
+  shared_preferences:
+  badges:
+  carousel_slider:
+  flutter_rating_bar:
+  font_awesome_flutter:
+  image_picker:
+  multi_image_picker: 
+  file_picker: ^1.2.0
+  firebase_auth:
+  flutter_facebook_login: ^3.0.0
+  firebase_core: ^0.4.4
+  google_sign_in: ^4.5.6
+  url_launcher:
+  google_maps_flutter:
+  date_format:
+  intl:
+  flutter_absolute_path: ^1.0.6
+  video_player:
+  super_tooltip: 
+  image_cropper: ^1.3.1
+  flutter_local_notifications:
+  barcode_scan:
+  qr_flutter:
+  mailto:
+  grouped_checkbox:
+
+  youtube_player_flutter:
+  auto_size_text:
+  jiffy: ^3.0.1
+  geolocator: ^6.2.0
+  keyboard_actions: ^3.3.1+1
+  onesignal_flutter: ^2.6.2
+  simple_tooltip: ^0.1.16
+  flutter_svg:
+  better_player:
+  easy_localization:
+ 
+  soundpool:
+  cupertino_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - Assets/Images/
+    - Assets/Fonts/
+    - Assets/Languages/
+    - Assets/Sounds/
+
+  fonts:
+    - family: SourceSansPro
+      fonts:
+        - asset: Assets/Fonts/SourceSansPro-Black.ttf
+          weight: 900
+        - asset: Assets/Fonts/SourceSansPro-Bold.ttf
+          weight: 700
+        - asset: Assets/Fonts/SourceSansPro-ExtraLight.ttf
+          weight: 100
+        - asset: Assets/Fonts/SourceSansPro-Light.ttf
+          weight: 300
+        - asset: Assets/Fonts/SourceSansPro-Regular.ttf
+        - asset: Assets/Fonts/SourceSansPro-SemiBold.ttf
+          weight: 600
+    - family: SFProText
+      fonts:
+        - asset: Assets/Fonts/SFProTextRegular.ttf
+          weight: 400
+        - asset: Assets/Fonts/SFProText-Medium.ttf
+          weight: 500
+        - asset: Assets/Fonts/SFProTextSemibold.ttf
+          weight: 600
+        - asset: Assets/Fonts/SFProText-Bold.ttf
+          weight: 700

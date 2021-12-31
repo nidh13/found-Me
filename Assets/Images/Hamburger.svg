@@ -1,0 +1,18 @@
+<svg id="Hamburger_Icon" data-name="Hamburger Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Hamburger_Icon-2" data-name="Hamburger Icon" clip-path="url(#clip-path)">
+    <g transform="translate(-24 -56)">
+      <rect id="Rectangle_110" data-name="Rectangle 110" width="24" height="4" rx="2" transform="translate(24 56)" fill="#fff"/>
+    </g>
+    <g transform="translate(-24 -47)">
+      <rect id="Rectangle_110-2" data-name="Rectangle 110" width="24" height="4" rx="2" transform="translate(24 56)" fill="#fff"/>
+    </g>
+    <g transform="translate(-24 -38)">
+      <rect id="Rectangle_110-3" data-name="Rectangle 110" width="24" height="4" rx="2" transform="translate(24 56)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
